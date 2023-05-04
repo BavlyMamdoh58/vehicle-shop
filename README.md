@@ -12,5 +12,5 @@ https://streamable.com/0rz3yv
 4-The file is compile to save the copyrights of luacore team</pre>
 
 
-if you have any issues you can contact us on discord
+if you have any issues you can contact us on discord</p>
 https://discord.gg/luacore
