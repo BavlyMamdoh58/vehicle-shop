@@ -1,0 +1,14 @@
+<meta>
+	<info author="karizmAAa" type="script" name="CarShop" />
+	<script src="karizma_c.luac" type="client" cache="false" />
+	<script src="karizma_s.luac" type="server" />
+	<script src="karizma_g.lua" type="shared" />
+
+	<file src="/assets/font.ttf"/>
+    <file src="/assets/bg.png"/>
+	<file src="/assets/btn.png"/>
+	<file src="/assets/grid.png"/>
+	<file src="/assets/logo.png"/>
+    <file src="/assets/click.mp3"/>
+	<file src="/assets/select.mp3"/>
+</meta>
